@@ -1,0 +1,16 @@
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.exe
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.deps.json
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.runtimeconfig.json
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.runtimeconfig.dev.json
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.dll
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\bin\Debug\net5.0\SingleResApp.pdb
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.csproj.AssemblyReference.cache
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.AssemblyInfoInputs.cache
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.AssemblyInfo.cs
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.csproj.CoreCompileInputs.cache
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.dll
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\refint\SingleResApp.dll
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.pdb
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\SingleResApp.genruntimeconfig.cache
+C:\Users\Abdulgafar\source\repos\SingleRes\SingleResApp\SingleResApp\obj\Debug\net5.0\ref\SingleResApp.dll

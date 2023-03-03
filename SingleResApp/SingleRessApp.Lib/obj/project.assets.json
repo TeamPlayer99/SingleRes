@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "SingleRessApp.Lib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/SingleRessApp.Lib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SingleRessApp.Lib.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "SingleRessApp.Lib/1.0.0": {
-      "type": "project",
-      "path": "../SingleRessApp.Lib/SingleRessApp.Lib.csproj",
-      "msbuildProject": "../SingleRessApp.Lib/SingleRessApp.Lib.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "SingleRessApp.Lib >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Abdulgafar\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleResApp\\SingleResApp.csproj",
-      "projectName": "SingleResApp",
-      "projectPath": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleResApp\\SingleResApp.csproj",
+      "projectUniqueName": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleRessApp.Lib\\SingleRessApp.Lib.csproj",
+      "projectName": "SingleRessApp.Lib",
+      "projectPath": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleRessApp.Lib\\SingleRessApp.Lib.csproj",
       "packagesPath": "C:\\Users\\Abdulgafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleResApp\\obj\\",
+      "outputPath": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleRessApp.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleRessApp.Lib\\SingleRessApp.Lib.csproj": {
-              "projectPath": "C:\\Users\\Abdulgafar\\source\\repos\\SingleRes\\SingleResApp\\SingleRessApp.Lib\\SingleRessApp.Lib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

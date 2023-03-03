@@ -1,4 +1,5 @@
 ﻿using System;
+using SingleResApp.Lib;
 
 namespace SingleResApp
 {

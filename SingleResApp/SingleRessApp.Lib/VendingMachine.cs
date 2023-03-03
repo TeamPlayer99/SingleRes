@@ -1,4 +1,4 @@
-﻿namespace SingleResApp
+﻿namespace SingleResApp.Lib
 {
     public class VendingMachine
     {
